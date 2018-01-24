@@ -6,13 +6,13 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 ### Part 1
 
-1. **hello-world-parallel.c**  The most basic hello world executed in parallel.
+1. **hello-world-parallel.c**  (the most basic hello world executed in parallel)
 
-2. **hello-world-parallel-id.c**  Similar to 1. but the id of each thread and the total number of threads are also printed.
+2. **hello-world-parallel-id.c**  (similar to 1. but the id of each thread and the total number of threads are also printed)
 
-3. **hello-world-parallel-id-func.c**  Same result as 2. but a function is called to print in inside the parallel region.
+3. **hello-world-parallel-id-func.c**  (same result as 2. but a function is called to print in inside the parallel region)
 
-4. **hello-world-parallel-id-scope.c**  Same result as 2. but data scope is used in the parallel region.
+4. **hello-world-parallel-id-scope.c**  (same result as 2. but data scope is used in the parallel region)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
