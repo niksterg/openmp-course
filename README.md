@@ -41,6 +41,6 @@ The following example programs introduce the main concepts of OpenMP step by ste
 9. [Online list of potential mistakes](https://www.viva64.com/en/a/0054/)
 10. [Video tutorial by C. Terboven (part 1)](https://www.youtube.com/watch?v=6FMn7M5jxrM)
 11. [Video tutorial by C. Terboven (part 2)](https://www.youtube.com/watch?v=Whq28OaPW08)
-12. [Video channel by PPES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
+12. [Video channel by PPCES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
 
 
