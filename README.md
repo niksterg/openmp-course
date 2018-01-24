@@ -10,9 +10,9 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 2. [**hello-world-parallel-id.c**](https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel-id.c) (similar to 1. but the id of each thread and the total number of threads are also printed)
 
-3. [**hello-world-parallel-id-func.c**](https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel-id-func.c (same result as 2. but a function is called to print in inside the parallel region)
+3. [**hello-world-parallel-id-func.c**](https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel-id-func.c) (same result as 2. but a function is called to print in inside the parallel region)
 
-4. [**hello-world-parallel-id-scope.c**](https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel-id-scope.c(same result as 2. but data scope is used in the parallel region)
+4. [**hello-world-parallel-id-scope.c**](https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel-id-scope.c) (same result as 2. but data scope is used in the parallel region)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
