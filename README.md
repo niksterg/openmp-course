@@ -6,7 +6,7 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 ### Part 1
 
-1. **hello-world-parallel.c**  (the most basic hello world executed in parallel)
+1. [**hello-world-parallel.c**] (https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel.c)  (the most basic hello world executed in parallel)
 
 2. **hello-world-parallel-id.c**  (similar to 1. but the id of each thread and the total number of threads are also printed)
 
