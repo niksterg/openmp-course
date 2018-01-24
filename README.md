@@ -28,3 +28,8 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 11. [**table-sum-wrong.c**](https://github.com/niksterg/openmp-course/blob/master/table-sum-wrong.c) (similar to 10. but gives wrong answer - find the error in the code!)
 
+### Presentations by N. Trifonidis
+
+1. [First part] (http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf).
+2. [Second part] (http://www.astro.auth.gr/~niksterg/courses/progtools/2-OpenMP-tutorial.pdf).
+
