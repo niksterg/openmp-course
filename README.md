@@ -28,8 +28,16 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 11. [**table-sum-wrong.c**](https://github.com/niksterg/openmp-course/blob/master/table-sum-wrong.c) (similar to 10. but gives wrong answer - find the error in the code!)
 
-### Presentations by N. Trifonidis
+### Tutorials
 
-1. [First part](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
-2. [Second part](http://www.astro.auth.gr/~niksterg/courses/progtools/2-OpenMP-tutorial.pdf) 
+1. [Tutorial by N. Trifonidis (part 1)](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
+2. [Tutorial by N. Trifonidis (part 2)](http://www.astro.auth.gr/~niksterg/courses/progtools/2-OpenMP-tutorial.pdf) 
+3. [A brief introduction by A. Kiessling](http://www.roe.ac.uk/ifa/postgrad/pedagogy/2009_kiessling.pdf)
+4. [Tutorial by S.C. Huang](https://idre.ucla.edu/sites/default/files/intro-openmp-2013-02-11.pdf)
+5. [Tutorial by Texas A&M](https://people.math.umass.edu/~johnston/PHI_WG_2014/OpenMPSlides_tamu_sc.pdf)
+6. [Tutorial by T. Mattson and L. Meadows](http://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf)
+7. [Online tutorial by B. Barney](https://computing.llnl.gov/tutorials/openMP/)
+8. [Online tutorial by Y. Yliluoma](https://bisqwit.iki.fi/story/howto/openmp/)
+9. [Online list of potential mistakes](https://www.viva64.com/en/a/0054/)
+
 
