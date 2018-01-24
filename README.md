@@ -39,5 +39,8 @@ The following example programs introduce the main concepts of OpenMP step by ste
 7. [Online tutorial by B. Barney](https://computing.llnl.gov/tutorials/openMP/)
 8. [Online tutorial by Y. Yliluoma](https://bisqwit.iki.fi/story/howto/openmp/)
 9. [Online list of potential mistakes](https://www.viva64.com/en/a/0054/)
+10. [Video tutorial by C. Terboven (part 1)](https://www.youtube.com/watch?v=6FMn7M5jxrM)
+11. [Video tutorial by C. Terboven (part 2)](https://www.youtube.com/watch?v=Whq28OaPW08)
+12. [Video channel by PPES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
 
 
