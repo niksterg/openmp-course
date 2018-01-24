@@ -5,9 +5,8 @@
 
 int main(void) {
 
-int i;
-
-int A[N];
+int i,
+    A[N];
 
  for(i=0;i<N;i++) A[i] = i;
 
