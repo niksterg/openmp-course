@@ -3,10 +3,11 @@
 
 int main(void) {
 
- #pragma omp parallel
-  {
-    printf("Hello World!\n");
-  }
+#pragma omp parallel
+{
+ printf("Hello World!\n");
+}
 
-  return 0;
+return 0;
+
 }
