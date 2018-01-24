@@ -1,6 +1,5 @@
 ## OpenMP Course in MSc Computational Physics
-### Department of Physics
-### Aristotle University of Thessaloniki
+### Department of Physics, Aristotle University of Thessaloniki
 ### Prof. N. Stergioulas
 
 The following example programs introduce the main concepts of OpenMP step-by-step.
