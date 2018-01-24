@@ -30,6 +30,6 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 ### Presentations by N. Trifonidis
 
-1. [First part] (http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf).
-2. [Second part] (http://www.astro.auth.gr/~niksterg/courses/progtools/2-OpenMP-tutorial.pdf).
+1. [First part](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
+2. [Second part](http://www.astro.auth.gr/~niksterg/courses/progtools/2-OpenMP-tutorial.pdf) 
 
