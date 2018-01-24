@@ -1,10 +1,18 @@
-## OpenMP Course in MSc Computational Physics
-### Department of Physics, Aristotle University of Thessaloniki
+## OpenMP Examples
 ### Prof. N. Stergioulas
 
-The following example programs introduce the main concepts of OpenMP step-by-step.
 
-### Markdown
+The following example programs introduce the main concepts of OpenMP step by step.
+
+### Part 1
+
+1. hello-world-parallel.c
+
+2. hello-world-parallel-id.c
+
+3. hello-world-parallel-id-func.c
+
+4. hello-world-parallel-id-scope.c
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
