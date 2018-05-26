@@ -43,8 +43,8 @@ The following example programs introduce the main concepts of OpenMP step by ste
 11. [Video tutorial by C. Terboven (part 2)](https://www.youtube.com/watch?v=Whq28OaPW08)
 12. [Video channel by PPCES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
 
-#### License
 
+### License
 
-###### Content provided under a Creative Commons Attribution license, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); code under [MIT License](https://opensource.org/licenses/MIT). (c)2018 [Nikolaos Stergioulas](http://www.astro.auth.gr/~niksterg/)
+##### Content provided under a Creative Commons Attribution license, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); code under [MIT License](https://opensource.org/licenses/MIT). (c)2018 [Nikolaos Stergioulas](http://www.astro.auth.gr/~niksterg/)
 
