@@ -3,12 +3,11 @@
 
 int main(void) {
 
-int myid, 
-    nThreads;
+int nThreads;
 
-#pragma omp parallel private(myid) shared(nThreads) 
+#pragma omp parallel 
 {
- myid = omp_get_thread_num(); 
+ int myid = omp_get_thread_num(); 
  printf("Thread %d says: Hello World!\n",myid);
 
  if(myid == 0) nThreads = omp_get_num_threads();
