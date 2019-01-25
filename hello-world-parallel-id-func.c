@@ -8,12 +8,11 @@ void printmessage(int myid)
 
 int main(void) {
 
-int myid, 
-    nThreads;
+int nThreads;
 
-#pragma omp parallel private(myid) shared(nThreads)
+#pragma omp parallel
 {
- myid = omp_get_thread_num();
+ int myid = omp_get_thread_num();
 
  printmessage(myid);
 
