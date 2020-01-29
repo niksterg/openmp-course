@@ -1,5 +1,6 @@
 ## OpenMP Examples
 ### Prof. N. Stergioulas
+### Aristotle University of Thessaloniki
 
 
 ### Example programs
@@ -28,6 +29,10 @@ The following example programs introduce the main concepts of OpenMP step by ste
 10. [**table-sum.c**](https://github.com/niksterg/openmp-course/blob/master/table-sum.c) (computing the sum of all elements in a table)
 
 11. [**table-sum-wrong.c**](https://github.com/niksterg/openmp-course/blob/master/table-sum-wrong.c) (similar to 10. but gives wrong answer - find the error in the code!)
+
+### Exercises
+
+[**SOR Poisson solver**](https://github.com/niksterg/openmp-course/blob/master/poisson-SOR.c)
 
 ### Tutorials
 
