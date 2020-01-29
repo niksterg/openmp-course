@@ -34,7 +34,7 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 [**2019 Homework on Poisson solvers**](https://github.com/niksterg/openmp-course/blob/master/OpenMP-set-2019.pdf)
 
-[**Poisson-SOR.c**](https://github.com/niksterg/openmp-course/blob/master/poisson-SOR.c)
+[**poisson-SOR.c**](https://github.com/niksterg/openmp-course/blob/master/poisson-SOR.c) Example: ./poisson-SOR -N 400 -M 400 -a 1e-6 -o 1.9
 
 ### Tutorials
 
