@@ -2,9 +2,10 @@
 ### Prof. N. Stergioulas
 
 
+### Example programs
+
 The following example programs introduce the main concepts of OpenMP step by step.
 
-### Part 1
 
 1. [**hello-world-parallel.c**](https://github.com/niksterg/openmp-course/blob/master/hello-world-parallel.c)  (the most basic hello world executed in parallel)
 
