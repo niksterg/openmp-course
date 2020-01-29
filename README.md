@@ -33,6 +33,7 @@ The following example programs introduce the main concepts of OpenMP step by ste
 ### Exercises
 
 [**2019 Homework on Poisson solvers**](https://github.com/niksterg/openmp-course/blob/master/OpenMP-set-2019.pdf)
+
 [**Poisson-SOR.c**](https://github.com/niksterg/openmp-course/blob/master/poisson-SOR.c)
 
 ### Tutorials
