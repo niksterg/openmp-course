@@ -54,6 +54,8 @@ The following example programs introduce the main concepts of OpenMP step by ste
 12. [Video tutorial by C. Terboven (part 2)](https://www.youtube.com/watch?v=Whq28OaPW08)
 13. [Video channel by PPCES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
 14. [Additional resources](https://www.openmp.org/resources/tutorials-articles/)
+15. [OpenMP 3.1 Quick Reference Card](https://www.openmp.org//wp-content/uploads/OpenMP3.1-CCard.pdf)
+
 
 
 ### License
