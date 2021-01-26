@@ -47,12 +47,12 @@ The following example programs introduce the main concepts of OpenMP step by ste
 5. [Tutorial by Texas A&M](https://people.math.umass.edu/~johnston/PHI_WG_2014/OpenMPSlides_tamu_sc.pdf)
 6. [Tutorial by T. Mattson and L. Meadows](http://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf)
 7. [Tutorial by Y. W. Li (includes Vtune examples)](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-20-23416) 
-7. [Online tutorial by B. Barney](https://computing.llnl.gov/tutorials/openMP/)
-8. [Online tutorial by Y. Yliluoma](https://bisqwit.iki.fi/story/howto/openmp/)
-9. [Online list of potential mistakes](https://www.viva64.com/en/a/0054/)
-10. [Video tutorial by C. Terboven (part 1)](https://www.youtube.com/watch?v=6FMn7M5jxrM)
-11. [Video tutorial by C. Terboven (part 2)](https://www.youtube.com/watch?v=Whq28OaPW08)
-12. [Video channel by PPCES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
+8. [Online tutorial by B. Barney](https://computing.llnl.gov/tutorials/openMP/)
+9. [Online tutorial by Y. Yliluoma](https://bisqwit.iki.fi/story/howto/openmp/)
+10. [Online list of potential mistakes](https://www.viva64.com/en/a/0054/)
+11. [Video tutorial by C. Terboven (part 1)](https://www.youtube.com/watch?v=6FMn7M5jxrM)
+12. [Video tutorial by C. Terboven (part 2)](https://www.youtube.com/watch?v=Whq28OaPW08)
+13. [Video channel by PPCES](https://www.youtube.com/channel/UCtdrEoe46tD2IvJJRs_JH1A)
 
 
 ### License
