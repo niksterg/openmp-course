@@ -46,6 +46,7 @@ The following example programs introduce the main concepts of OpenMP step by ste
 4. [Tutorial by S.C. Huang](https://idre.ucla.edu/sites/default/files/intro-openmp-2013-02-11.pdf)
 5. [Tutorial by Texas A&M](https://people.math.umass.edu/~johnston/PHI_WG_2014/OpenMPSlides_tamu_sc.pdf)
 6. [Tutorial by T. Mattson and L. Meadows](http://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf)
+7. [Tutorial by Y. W. Li (includes Vtune examples)](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-20-23416) 
 7. [Online tutorial by B. Barney](https://computing.llnl.gov/tutorials/openMP/)
 8. [Online tutorial by Y. Yliluoma](https://bisqwit.iki.fi/story/howto/openmp/)
 9. [Online list of potential mistakes](https://www.viva64.com/en/a/0054/)
