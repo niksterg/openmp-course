@@ -34,7 +34,7 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 [**2020 Homework on 2D wave equation**](https://github.com/niksterg/openmp-course/blob/master/OpenMP-set-2020.pdf)
 
-[**2019 Homework on Poisson solvers**](https://github.com/niksterg/openmp-course/blob/master/OpenMP-set-2019.pdf)
+[**2019 Homework on Poisson solvers**](https://github.com/niksterg/openmp-course/blob/master/OpenMP-set-2019.pdf) (see [this figure](https://www.researchgate.net/profile/Chhote-Shah/publication/336512640/figure/fig2/AS:922552943792128@1596965170203/Red-Black-ordering-technique-and-implementation-of-the-SOR-algorithm-a-updating-the.png)) 
 
 [**poisson-SOR.c**](https://github.com/niksterg/openmp-course/blob/master/poisson-SOR.c) Example: ./poisson-SOR -N 400 -M 400 -a 1e-6 -o 1.9
 
