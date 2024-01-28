@@ -49,10 +49,10 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 - Write a code in C/C++ that calculates π using a Monte-Carlo method. Use up to 10^10 points.
 - Parallelize the code using OpenMP. Run the code using 1, 2, 4, etc. threads (up to twice the physical number of cores, try at least up to 8).
-- Create a Jupyter python notebook within which you automatically run the C/C++ code using different number of cores (use a list) and plot the execution time as a function of the number of cores.
+- Create a Jupyter python notebook within which you automatically run the C/C++ code using different number of cores (use a list) and plot the execution time as a function of the number of cores. Alternatively, run the C/C++ code using a script, save the results in a file and load them into a Jupyter notebook to make the plot.
 - In the same notebook, create a second plot of parallel speedup vs number of cores.
 - Use [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law) to fit the resulting curve and find the proportion p of the code that benefits from parallelization and the maximum possible speedup in the limit of 10000 cores. 
-- In a second notebook, run the code for 10^2, 10^3, 10^4, ... , 10^11 points and calculate the convergence rate of your Monte-Carlo implementation.
+- Run the code for 10^2, 10^3, 10^4, ... , 10^11 points and, in a second notebook, calculate the convergence rate of your Monte-Carlo implementation. You can do this if you fit a line in a log-log- plot of the error in calculating π vs. the number of points. Try to find what the theoretical expectation is and compare your result to it.
 
 Use logarithmic scale wherever the numerical values change by orders of magnitude!
 
