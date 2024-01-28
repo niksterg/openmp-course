@@ -38,6 +38,14 @@ The following example programs introduce the main concepts of OpenMP step by ste
 
 [**poisson-SOR.c**](https://github.com/niksterg/openmp-course/blob/master/poisson-SOR.c) Example: ./poisson-SOR -N 400 -M 400 -a 1e-6 -o 1.9
 
+2023/24 Homework
+
+#1: Run the examples 1 - 10. Find and correct the mistakes in examples 8, 9 and 11.
+
+#2: Write a code in C/C++ that calculates π using a Monte-Carlo method. Use up to 10^10 points. Parallelize the code using OpenMP. Run the code using 1, 2, 4, etc. threads (up to twice the physical number of cores, try at least up to 8). Create a Jupyter python notebook within which you automatically run the C/C++ code using different number of cores (use a list) and plot the execution time as a function of the number of cores. Create a second plot of parallel speedup vs number of cores. Use [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law) to fit the resulting curve and find the proportion p of the code that benefits from parallelization and the maximum possible speedup in the limit of 10000 cores. Use logarithmic scale wherever the numerical values change by orders of magnitude. In a second notebook, run the code for 10^2, 10^3, 10^4, ... , 10^11 points and calculate the convergence rate of your Monte-Carlo implementation.
+
+(Bonus points: repeat with Python+Numba and/or Julia)
+
 ### Tutorials
 
 1. [Tutorial by N. Trifonidis (part 1)](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
