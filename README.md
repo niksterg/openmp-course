@@ -64,6 +64,8 @@ Example code: [2D Laplace equation](https://github.com/niksterg/openmp-course/bl
 
 Example codes: [Calculate pi using MCMC, with OpenMP, but also in python and Julia](https://github.com/niksterg/openmp-course/tree/master/pi_mc)
 
+Example code: [Multi-dimensional regression using ANN](https://www.kaggle.com/code/nikolaosstergioulas/house-prices-ann)
+
 ### Tutorials
 
 1. [Tutorial by N. Trifonidis (part 1)](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
