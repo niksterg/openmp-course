@@ -66,6 +66,20 @@ Example codes: [Calculate pi using MCMC, with OpenMP, but also in python and Jul
 
 Example code: [Multi-dimensional regression using ANN](https://www.kaggle.com/code/nikolaosstergioulas/house-prices-ann)
 
+**2024/25 Homework:**
+
+**Set #1:** 
+- Run the examples 1 - 10. 
+- Find and correct the mistakes in examples 8, 9 and 11.
+
+**Set #2:** 
+
+OpenMP:
+
+**Set #3:**
+
+Select a multidimensional regression problem (real data or synthetic data that you create) and write an ANN to predict y(X). Perform many trainings varying the hyperparameters and write a report with your findings. You can use data from Kaggle or from other sources or from your own experiments or create your own synthetic data. Submit a) your codes, b) link to the data c) a detailed report of your findings.
+
 ### Tutorials
 
 1. [Tutorial by N. Trifonidis (part 1)](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
