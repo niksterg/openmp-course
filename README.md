@@ -58,6 +58,9 @@ Use logarithmic scale wherever the numerical values change by orders of magnitud
 
 (Bonus track: repeat with Python+Numba and/or Julia)
 
+**2024/25**
+
+Example code: [2D Laplace equation](https://github.com/niksterg/openmp-course/blob/master/laplace2D.c) with OpenMP
 
 ### Tutorials
 
