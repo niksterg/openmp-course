@@ -74,7 +74,7 @@ Example code: [Multi-dimensional regression using ANN](https://www.kaggle.com/co
 
 **Set #2:** 
 
-OpenMP:
+OpenMP: Decide on your own problem to parallelize with OpenMP and construct a similar report as for Set #2 of 2023/24, following the guidelines in that problem set.
 
 **Set #3:**
 
