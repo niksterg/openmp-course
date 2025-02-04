@@ -62,6 +62,8 @@ Use logarithmic scale wherever the numerical values change by orders of magnitud
 
 Example code: [2D Laplace equation](https://github.com/niksterg/openmp-course/blob/master/laplace2D.c) with OpenMP
 
+Example codes: [Calculate pi using MCMC, with OpenMP, but also in python and Julia](https://github.com/niksterg/openmp-course/tree/master/pi_mc)
+
 ### Tutorials
 
 1. [Tutorial by N. Trifonidis (part 1)](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
