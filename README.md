@@ -66,7 +66,7 @@ Example codes: [Calculate pi using MCMC, with OpenMP, but also in python and Jul
 
 Example code: [Multi-dimensional regression using ANN](https://www.kaggle.com/code/nikolaosstergioulas/house-prices-ann)
 
-**2024/25 Homework:**
+**2024/25 Homework (due Feb. 28):**
 
 **Set #1:** 
 - Run the examples 1 - 10. 
