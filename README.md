@@ -80,6 +80,10 @@ OpenMP: Decide on your own problem to parallelize with OpenMP and construct a si
 
 Select a multidimensional regression problem (real data or synthetic data that you create) and write an ANN to predict y(X). Perform many trainings varying the hyperparameters and write a report with your findings. You can use data from Kaggle or from other sources or from your own experiments or create your own synthetic data. Submit a) your codes, b) link to the data c) a detailed report of your findings.
 
+**2024/25 Homework (due Jan. 31):**
+
+[Area of Mandelbrot set](https://github.com/niksterg/openmp-course/blob/master/OpenMP_set-2025.pdf)
+
 ### Tutorials
 
 1. [Tutorial by N. Trifonidis (part 1)](http://www.astro.auth.gr/~niksterg/courses/progtools/1-OpenMP-tutorial.pdf) 
